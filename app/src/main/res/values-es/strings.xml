@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Solo Java</string>
+    <string name="input_hint">Nombre</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whipped_cream">Nata montada</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order_summary">Resumen Pedido</string>
+    <string name="order">Pedido</string>
+    <string name="quantity_error_100">Has llegado al límite de café</string>
+    <string name="quantity_error_0">No puedes pedir menos de un café</string>
+    <string name="order_summary_name">Nombre: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">¿Añadir nata montada? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">¿Añadir Chocolate? <xliff:g id="addWhippedChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">Cantidad: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">Precio Total: <xliff:g id="totalPrice" example="10">%d</xliff:g></string>
+    <string name="euro"> €</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="order_summary_subject">Solo Java, Pedido para <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="no_name_error">Por favor, introduce tu nombre</string>
+
+</resources>
